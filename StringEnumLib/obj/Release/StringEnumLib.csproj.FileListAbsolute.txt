@@ -1,0 +1,10 @@
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLib\StringEnumLib\bin\Release\StringEnumLib.dll
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLib\StringEnumLib\bin\Release\StringEnumLib.pdb
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLib\StringEnumLib\obj\Release\StringEnumLib.csprojResolveAssemblyReference.cache
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLib\StringEnumLib\obj\Release\StringEnumLib.dll
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLib\StringEnumLib\obj\Release\StringEnumLib.pdb
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLib\bin\Release\StringEnumLib.dll
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLib\bin\Release\StringEnumLib.pdb
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLib\obj\Release\StringEnumLib.csprojResolveAssemblyReference.cache
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLib\obj\Release\StringEnumLib.dll
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLib\obj\Release\StringEnumLib.pdb

@@ -1,0 +1,17 @@
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\bin\Debug\StringEnumLibUWP.dll
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\bin\Debug\StringEnumLibUWP.pdb
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\bin\Debug\StringEnumLibUWP.pri
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\StringEnumLibUWP.csprojResolveAssemblyReference.cache
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\StringEnumLibUWP.dll
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\StringEnumLibUWP.pdb
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\priconfig.xml
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\layout.resfiles
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\resources.resfiles
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\pri.resfiles
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\qualifiers.txt
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ML15AAF\Documents\GitHub\StringEnumLib\StringEnumLibUWP\StringEnumLibUWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
